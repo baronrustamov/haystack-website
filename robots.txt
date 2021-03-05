@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://haystack.deepset.ai/sitemap.xml
+Host: https://haystack.deepset.ai
